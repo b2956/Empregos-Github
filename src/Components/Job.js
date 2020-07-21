@@ -31,7 +31,7 @@ const Job = ({ job }) => {
                     <Button 
                         variant="primary" 
                         onClick={() => setOpen(prevOpen => !prevOpen)}>
-                            {open ? 'Hide Details' : 'View Details'}
+                            {open ? 'Esconder Detalhes' : 'Ver Detalhes'}
                     </Button>
                     <Collapse in={open}>
                         <div className="mt-4">
