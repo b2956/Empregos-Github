@@ -1,6 +1,6 @@
 # Empregos Github
 
-link para live-preview: https://b2956.github.io/deploy-empregos-github/
+link para live-preview: https://b2956.github.io/deploy-empregos-github/index.html
 
 ## Descrição:
 
